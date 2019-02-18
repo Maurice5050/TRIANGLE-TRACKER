@@ -15,3 +15,7 @@ color: grey;
 body{
   background-color: #d5abe3;
 }
+form{
+margin-left: 100px;font-size: 45px;
+float: left;
+}
