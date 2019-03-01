@@ -2,37 +2,33 @@
 form{
 margin-left: 100px;
 font-size: 45px;
-float: left;
-color: #E91E63;
+
 }
 img{
   height: 400px;
   width: 50%;
   float: right;
+  margin-bottom: 100px;
 }
-div.entire{
-  color: grey;
-    margin-left: 100px;
-    background-color: #FF5252;
-  }
-
+.entire{
+  width: 700px;
+}
+color: grey;
+  margin-left: 100px;
+}
 body{
-  background-color: #448AFF;
+  background-color: #d5abe3;
 }
-.geo{
-  background-color: black;
-}
-
 form{
 margin-left: 100px;
 font-size: 45px;
-float: left;
-}
-img{
-  height: 400px;width: 50%;
-  float: right;
-}
 
-.entire{
-  width: 700px;
+}
+body{
+  background-image: url('./image/tower.jpg');
+  background-size: cover;
+}
+#results{
+  font-size: 30px;
+  color: red;
 }
